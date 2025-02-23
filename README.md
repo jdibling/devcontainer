@@ -1,2 +1,2 @@
 # devcontainer
-Starter repo for setting up a project using devcontainers
+Simple starter repo for setting up a project using devcontainers.
